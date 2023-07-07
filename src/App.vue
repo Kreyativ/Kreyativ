@@ -4,7 +4,7 @@
     <KreyativIntro></KreyativIntro>
     <KreyativAbout></KreyativAbout>
     <KreyativSponsorShip></KreyativSponsorShip>
-    <KreyativBlog></KreyativBlog>
+    <!-- <KreyativBlog></KreyativBlog> -->
     <KreyativCta></KreyativCta>
     <appFooter></appFooter>
 </template>
@@ -16,6 +16,6 @@ import KreyativHero from "@/components/KreyativHero.vue"
 import KreyativIntro from "./components/KreyativIntro.vue";
 import KreyativAbout from "./components/KreyativAbout.vue";
 import KreyativCta from "./components/KreyativCta.vue";
-import KreyativBlog from "./components/KreyativBlog.vue";
+// import KreyativBlog from "./components/KreyativBlog.vue";
 import KreyativSponsorShip from "./components/KreyativSponsorShip.vue"
 </script>

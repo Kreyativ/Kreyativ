@@ -30,7 +30,7 @@
                 </span>
                 
                 <h2 class="mt-4 text-lg font-medium">Office</h2>
-                <p class="mt-2 text-gray-400">Come say hello at our office HQ.</p>
+                <p class="mt-2 text-gray-400">Virtual office</p>
                 <p class="mt-2 text-blue-400">America, Colorado</p>
             </div>
 
@@ -42,7 +42,7 @@
                 </span>
                 
                 <h2 class="mt-4 text-lg font-medium">Phone</h2>
-                <p class="mt-2 text-gray-400">Mon-Fri from 8am to 5pm.</p>
+                <p class="mt-2 text-gray-400">Coming Soon</p>
                 <p class="mt-2 text-blue-400">+1 (000) 000-0000</p>
             </div>
         </div>
