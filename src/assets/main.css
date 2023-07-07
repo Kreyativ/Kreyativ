@@ -10,7 +10,7 @@ section {
     @apply my-20
 }
 .btn {
-    @apply max-sm:w-full text-center px-8 py-3 bg-blue-600 rounded-full text-lg font-medium text-[#ececec] transition-all border border-transparent 
+    @apply text-center px-8 py-3 bg-blue-600 rounded-full text-lg font-medium text-[#ececec] transition-all border border-transparent 
 }
 
 button.btn:active {
